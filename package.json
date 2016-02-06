@@ -1,11 +1,11 @@
 {
-    "name": "Railscast-Renewed",
-    "theme": "syntax",
-    "version": "0.0.0",
-    "description": "A modification of one-dark-syntax, using railscast colours",
-    "repository": "https://github.com/PaulOlteanu/Railscast-Renewed",
-    "license": "MIT",
-    "engines": {
-        "atom": ">0.50.0"
-    }
+  "name": "Railscast-Renewed",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "A modification of one-dark-syntax, using railscast colours",
+  "repository": "https://github.com/PaulOlteanu/Railscast-Renewed",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
 }
